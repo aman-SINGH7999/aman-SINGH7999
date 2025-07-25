@@ -12,7 +12,6 @@
 ### 🧑‍💻 About Me
 
 - 🚀 I'm currently working on a **Live Streaming App** using **Expo**, **Socket.IO**, and **Redux**.
-- 🎧 Also building a beautiful **music app - Kajari** with `expo-audio`, Zustand & NativeWind.
 - 🌱 Learning **AWS**, **TypeScript**, and **Performance Optimization**.
 - 🧠 I love building apps that connect people and simplify lives.
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **JWT**, or even about cricket 😄
@@ -26,16 +25,12 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-singh-dev&show_icons=true&theme=radical" alt="Aman's GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singh-dev&theme=radical" alt="Aman's GitHub Streak" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-dev&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-SINGH7999&show_icons=true&theme=gotham" height="120" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-SINGH7999&theme=gotham" height="120" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-SINGH7999&layout=compact&theme=gotham" height="120" alt="Top Languages" />
 </p>
 
 ---
@@ -43,14 +38,14 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-singh-881256297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="amansing7999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://leetcode.com/u/amansing7999/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -64,6 +59,5 @@
 
 ### 🧠 Currently Learning
 
-```txt
-TypeScript | AWS EC2 & S3 | WebRTC | Clean Architecture
-
+txt
+TypeScript | React Native | Nextjs | Clean Architecture
